@@ -21,6 +21,13 @@ const LayoutStyles = styled.div`
 	.nav-link-text {
 		color: black;
 	}
+
+	.site-title {
+		font-size: 3rem;
+		color: gray;
+		font-weight: 700;
+		margin: 3rem 0;
+	}
 `;
 
 export default LayoutStyles;
