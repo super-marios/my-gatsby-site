@@ -28,6 +28,9 @@ const Layout = ({ pageTitle, children }) => {
 						<li className='nav-link-item'>
 							<Link to='/about'>About</Link>
 						</li>
+						<li className='nav-link-item'>
+							<Link to='/blog'>Blog</Link>
+						</li>
 					</ul>
 				</nav>
 				<main>
